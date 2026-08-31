@@ -81,6 +81,6 @@ jobs:
 
   coding-standard:
     name: Coding Standard
-    uses: brick/coding-standard/.github/workflows/coding-standard.yml@v4
+    uses: brick/coding-standard/.github/workflows/coding-standard.yml@v5
     with:
       working-directory: "tools/ecs"
